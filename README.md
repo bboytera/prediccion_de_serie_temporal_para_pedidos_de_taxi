@@ -15,6 +15,14 @@ La métrica RECM en el conjunto de prueba no debe ser superior a 48.
 # Descripción de los datos
 - Los datos se almacenan en el archivo `taxi.csv`. 	
 - El número de pedidos está en la columna `'num_orders'`.
+# Habilidades técnicas
+- Python
+- Numpy
+- Scikit-learn
+- Matplotlib
+- LigthGBM
+- XGBoost
+
 # Conclusión
 - Realizamos un EDA y preprocesamos los datos como agregando nuevas caracteristicas a nuestro modelo reduciendo fluctuaciones y poniendo nuestra serie temporal en intervalos de una hora 
 
