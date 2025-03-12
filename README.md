@@ -1,5 +1,5 @@
 # Prediccion_de_serie_temporal_para_pedidos_de_taxi
-Este es un proyecto que nos predice la cantidad de pedidos de taxi para la hora siguiente con un RMSE menor a 48, con diferentes modelos de machien learning
+Este es un proyecto que nos predice la cantidad de pedidos de taxi para la hora siguiente con un RMSE menor a 48, con diferentes modelos de machine learning
 # Introducción
 La compañía Sweet Lift Taxi ha recopilado datos históricos sobre pedidos de taxis en los aeropuertos.
 Necesitamos atraer a más conductores durante las horas pico para predecir la cantidad de pedidos de taxis para la próxima hora. Construiremos un modelo para dicha predicción.
